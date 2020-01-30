@@ -4,7 +4,7 @@ Python script to fix "dpkg: warning: files list file for package 'xyz' missing;"
 
 ## Usage
 
-* Copy all the errors (e.g __dpkg: warning: files list file for package 'libxcb-xkb1:amd64' missing; assuming package has no files currently installed__) to the `packages` file (separated by a linebreak).
+* Copy all the errors (e.g <em>dpkg: warning: files list file for package 'libxcb-xkb1:amd64' missing; assuming package has no files currently installed</em>) to the `packages` file (separated by a linebreak).
 
 * Execute `python app.py`, on Terminal.
 
